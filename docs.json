@@ -22,6 +22,14 @@
             ]
           },
           {
+            "group": "Features",
+            "pages": [
+              "features/reachx",
+              "features/reachz",
+              "features/reachclient"
+            ]
+          },
+          {
             "group": "Customization",
             "pages": [
               "custom/launcher",
