@@ -3,7 +3,7 @@
   "theme": "aspen",
   "name": "Reach Docs (previously ReachSDK Docs)",
   "colors": {
-    "primary": "#030303",
+    "primary": "#FFFFFF",
     "light": "#030303",
     "dark": "#FFFFFF"
   },
