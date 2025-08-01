@@ -76,13 +76,13 @@
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
+          "anchor": "Changelog",
+          "href": "https://www.reachsdk.online/changelog",
           "icon": "slack"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Downloads",
+          "href": "https://www.reachsdk.online/products",
           "icon": "newspaper"
         }
       ]
@@ -93,16 +93,10 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://dashboard.reachsdk.online"
     }
   },
   "contextual": {
